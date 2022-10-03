@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BulletPlayer
+  - Enemy
+  - DeathZone
+  - ItemHP
+  - ItemDoubleGun
+  - ItemShield
+  - ItemSupporters
+  - ItemWing
+  - Meteorite
+  - ItemPromax
+  - BulletEnemy
+  - Shield
+  - Rocket
+  - Boss
   layers:
   - Default
   - TransparentFX
